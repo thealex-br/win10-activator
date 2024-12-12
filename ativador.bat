@@ -11,7 +11,7 @@ cls
 echo --------------------------------------
 echo -          Ativador do Alex          -
 echo --------------------------------------
-echo                (totalmente legal)
+echo                     (totalmente legal)
 echo.
 
 echo  1. Professional
